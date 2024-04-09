@@ -1,0 +1,1 @@
+# IPZ_CW_1_Veremeichyk_Yevhenii

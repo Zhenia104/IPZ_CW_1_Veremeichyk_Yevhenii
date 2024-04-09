@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.IPZ_CW_1_2_Veremeichyk_Yevhenii" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
